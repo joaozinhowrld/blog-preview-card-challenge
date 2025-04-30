@@ -25,6 +25,7 @@ main {
 
 main:hover {
   box-shadow: 17px 17px 0px 0px #000000;
+  cursor: pointer;
 }
 
 .content {
@@ -84,6 +85,8 @@ main:hover {
   font-weight: bold;
   line-height: 150%;
   letter-spacing: 0px;
+  transition: 0.3s ease;
+  cursor: pointer;
 }
 
 .title h1:hover {
