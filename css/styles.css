@@ -134,7 +134,7 @@ main:hover {
   letter-spacing: 0px;
 }
 
-/* media query */
+/* * media query */
 @media (max-width: 375px) {
   main {
     width: 327px;
