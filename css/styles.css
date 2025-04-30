@@ -39,7 +39,7 @@ main:hover {
 
 .card-img img {
   border-radius: 10px;
-  object-fit: cover; /* Para a imagem se adaptar sem distorcer */
+  object-fit: cover; 
 }
 
 .text-content {
