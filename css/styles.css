@@ -11,7 +11,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #F4D04E;
+  background-color: #000000
  }
 
 main {
@@ -25,6 +25,7 @@ main {
 
 main:hover {
   box-shadow: 17px 17px 0px 0px #000000;
+  background-color: #F4D04E;
 }
 
 .content {
